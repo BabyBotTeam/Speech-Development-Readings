@@ -41,7 +41,7 @@
 
 /* Includes ---------------------------------------------------------------- */
 #include <PDM.h>
-#include <Speech_Recognition_4_15_inferencing.h>
+#include <Speech_Development_Readings_inferencing.h>
 #include <ArduinoBLE.h>
 
 /** Audio buffers, pointers and selectors */
